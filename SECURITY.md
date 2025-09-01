@@ -2,8 +2,7 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+We currently provide security updates for versions 5.1.x and 4.0.x. Older versions are not supported.
 
 | Version | Supported          |
 | ------- | ------------------ |
