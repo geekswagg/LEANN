@@ -4,12 +4,12 @@
 
 We currently provide security updates for versions 5.1.x and 4.0.x. Older versions are not supported.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| Version   | Supported          |
+| --------- | ------------------ |
+| 2.3.0     | :white_check_mark: |
+| 2.2.1     | :white_check_mark: |
+| 2.2.0     | :x:                |
+| < 2.2.0   | :x:                |
 
 ## Reporting a Vulnerability
 
